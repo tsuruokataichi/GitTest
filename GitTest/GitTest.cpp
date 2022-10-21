@@ -7,7 +7,7 @@ int main()
 {
 	std::cout << "Hello GItHub World!\n";
 	
-	std::cout << "New branch Changed!\n";
+	std::cout << "New branch changed!\n";
 }
 
 // プログラムの実行: Ctrl + F5 または [デバッグ] > [デバッグなしで開始] メニュー
